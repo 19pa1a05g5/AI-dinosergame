@@ -14,6 +14,14 @@ https://experiments.withgoogle.com/experiments?tag=Teachable+Machine
 
 https://editor.p5js.org/19pa1a05g5/sketches/Kyj7aCuGn
 
+https://teachablemachine.withgoogle.com/models/[...]
+
+#Youtube video
+
+https://youtu.be/dsS1NrijDkE
+
+
+
 
 
 
