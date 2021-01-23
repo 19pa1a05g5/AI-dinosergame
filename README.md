@@ -20,7 +20,9 @@ https://teachablemachine.withgoogle.com/models/[...]
 
 https://youtu.be/dsS1NrijDkE
 
+#submitted by
 
+S.Surya Naga Sirisha(19pa1a05g5)
 
 
 
