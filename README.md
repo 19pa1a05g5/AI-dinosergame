@@ -24,7 +24,7 @@ https://youtu.be/dsS1NrijDkE
 
 S.Surya Naga Sirisha(19pa1a05g5)
 
-K.Subarami Reddy(19pa1a0484)
+K.Subbarami Reddy(19pa1a0484)
 
 
 
